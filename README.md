@@ -14,7 +14,8 @@ The dataset contains 1,338 records and 7 features.
 
 Dataset source:
 Kaggle - Medical Insurance Cost Prediction
-(View the original dataset)[https://www.kaggle.com/datasets/awaiskaggler/insurance-csv]
+
+[View the original dataset](https://www.kaggle.com/datasets/awaiskaggler/insurance-csv)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monahanumanthu/medical-insurance-cost-prediction/blob/main/medical_insurance_cost_prediction.ipynb)
 
